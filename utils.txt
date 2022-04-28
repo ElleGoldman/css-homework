@@ -1,0 +1,15 @@
+emojis: https://emojipedia.org/
+font-family: "Inter", sans-serif;
+blue-color: #1da1f2; // for buttons and some text
+blue-background-color: #d7f5f5; //for background
+light-beige-background-color: #fbf8f3; //for background
+yellow-border-color: #fce5be; //for border
+grey-font-color: #828282; //for some text
+
+
+PC-1400 – this is for small to wide screens 768 – 1400px;
+
+Tablet-767 – this is for tablet view, let’s use for 640 – 767px;
+
+Mobile-360 – this is for mobile view, let’s use for 360 – 639px;
+
